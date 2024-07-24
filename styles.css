@@ -46,3 +46,11 @@ aside {
     font-size: medium;
     
 }
+
+.homesec {
+    /* height: 50%; */
+    background-color: white;
+    opacity: 70%;
+    margin: 20%;
+}
+
