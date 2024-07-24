@@ -1,0 +1,56 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* a {
+    color: black;
+} */
+
+/* p {
+    padding: 40px;
+    text-align: center;
+} */
+
+.content {
+    padding: 150px;
+}
+
+.features-header {
+    margin-left: 820px;
+}
+
+.flex-container {
+    display: flex;
+    margin-left: 20px;
+
+}
+
+.flex-content {
+    width: 200px;
+    /* padding: 20px; */
+}
+
+article {
+    border: solid black;
+    padding: 20px
+}
+
+aside {
+    /* font-size:; */
+    margin: 15px;
+}
+
+.feature-aside {
+    font-size: medium;
+    
+}
+
+.homesec {
+    /* height: 50%; */
+    background-color: white;
+    opacity: 70%;
+    margin: 20%;
+}
+
